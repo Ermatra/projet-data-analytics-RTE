@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Ce projet propose une analyse exploratoire et statistique approfondie des données du réseau haute tension HTA/BT en France (RTE), collectées sur une journée complète avec une résolution d'une minute. Il vise à évaluer la stabilité du réseau, l’efficacité énergétique (via le facteur de puissance), les performances des transformateurs, et l’homogénéité géographique du système.
+Ce projet propose une analyse exploratoire et statistique approfondie des données du réseau haute tension HTA/BT en  (RTE), collectées sur une journée complète avec une résolution d'une minute. Il vise à évaluer la stabilité du réseau, l’efficacité énergétique (via le facteur de puissance), les performances des transformateurs, et l’homogénéité géographique du système.
 
 L’analyse s’appuie sur des visualisations claires, des statistiques descriptives robustes, et des tests statistiques adaptés (Chi², Kruskal-Wallis), permettant de tirer des conclusions pertinentes et actionnables sur le comportement du réseau.
 
